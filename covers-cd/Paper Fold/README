@@ -1,0 +1,10 @@
+Simple CD cover made from folding a single A4 sheet of paper.
+
+See http://www.instructables.com/id/OpenCDCover-II/ for folding instructions.
+
+Copy this directory into your user template directory:
+
+    cp -r ../Paper\ Fold ~/.scribus/templates/
+
+And you should be able to use the "New from template" feature to create a new
+document based on this layout.
