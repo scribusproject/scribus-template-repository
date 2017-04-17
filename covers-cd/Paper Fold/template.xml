@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>CD Cover Paper Fold</name>
+		<file>CD Cover Paper Fold.sla</file>
+		<tnail>CD Cover Paper Foldtn.png</tnail>
+		<img>CD Cover Paper Fold.png</img>
+		<psize>A4, stående</psize>
+		<color></color>
+		<descr>Simple CD cover folded from a single A4 sheet of paper. See http://www.instructables.com/id/OpenCDCover-II/ for folding instructions.</descr>
+		<usage></usage>
+		<scribus_version>1.4.6</scribus_version>
+		<date>2017-04-17</date>
+		<author>Harald Eilertsen</author>
+		<email></email>
+	</template>
+</templates>
